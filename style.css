@@ -1,15 +1,39 @@
 body{
-	
-	overflow: hidden;
-	
 
+    
+overflow:hidden;
 }
 .uche{
 	font-family: cursive;
-	font-style:normal;
+	
 }
 .fio{
 	position: relative;
-	left: 30em;
+	left: 40em;
+	color: black;
 
 }
+.ifeoma{
+	 border-radius: 3em;
+	  border: none; 
+	 color:purple;
+}
+.pepsi{
+	color: purple;
+}
+.dee{
+	padding: 7em;
+	position: relative;
+	right: 7em;
+}
+.as{
+	color:blue;
+	font-size: 3em;
+}
+.fee{
+	padding: 7em;
+	position: relative;
+	left: 10em;
+}
+	
+
